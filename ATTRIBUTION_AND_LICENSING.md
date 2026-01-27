@@ -4,7 +4,7 @@
 
 This publication incorporates, adapts, and references material originally posted on the Grin Forum, accessible at:
 
-https://forum.grin.mw
+https://forum.grin.mw/tos
 
 All forum contributions are authored by individual users and are made available under the **Creative Commons Attribution–NonCommercial–ShareAlike 3.0 Unported License (CC BY-NC-SA 3.0)**, as specified in the Grin Forum Terms of Service.
 
