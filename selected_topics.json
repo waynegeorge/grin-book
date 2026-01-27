@@ -1,0 +1,3157 @@
+{
+  "metadata": {
+    "total_topics_scored": 2930,
+    "topics_selected": 150,
+    "selection_date": "2026-01-27T01:28:07.807837",
+    "chapters": {
+      "1": "MimbleWimble Origins",
+      "2": "Building in Public",
+      "3": "Road to Launch",
+      "4": "Launch Day",
+      "5": "Growing Pains",
+      "6": "First Hard Fork",
+      "7": "The Hard Fork Years",
+      "8": "Governance Evolution",
+      "9": "Decentralized Development",
+      "10": "Legacy & Future"
+    }
+  },
+  "topics": [
+    {
+      "id": 8,
+      "title": "Welcome to Discourse",
+      "slug": "welcome-to-discourse",
+      "created_at": "2018-01-16T07:26:04.222Z",
+      "score": 77.39,
+      "filepath": "2018\\welcome-to-discourse.json",
+      "views": 5321,
+      "posts_count": 20,
+      "like_count": 72,
+      "core_posters": [
+        "igno.peverell",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "privacy": 2
+      },
+      "chapter": 1,
+      "year": "2018"
+    },
+    {
+      "id": 71,
+      "title": "Grin Mining FAQ - All of the answers to your mining questions",
+      "slug": "grin-mining-faq-all-of-the-answers-to-your-mining-questions",
+      "created_at": "2018-01-22T10:19:36.543Z",
+      "score": 84.09,
+      "filepath": "2018\\grin-mining-faq-all-of-the-answers-to-your-mining-questions.json",
+      "views": 38563,
+      "posts_count": 50,
+      "like_count": 43,
+      "core_posters": [
+        "igno.peverell",
+        "yeastplume",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 2,
+        "privacy": 1
+      },
+      "chapter": 1,
+      "year": "2018"
+    },
+    {
+      "id": 152,
+      "title": "How to Mine Cuckoo 30 in Grin: Help us test and collect stats!",
+      "slug": "how-to-mine-cuckoo-30-in-grin-help-us-test-and-collect-stats",
+      "created_at": "2018-02-02T13:22:19.006Z",
+      "score": 84.26,
+      "filepath": "2018\\how-to-mine-cuckoo-30-in-grin-help-us-test-and-collect-stats.json",
+      "views": 31887,
+      "posts_count": 37,
+      "like_count": 20,
+      "core_posters": [
+        "yeastplume",
+        "tromp",
+        "quentinlesceller",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "launch": 2,
+        "pow": 3,
+        "privacy": 1
+      },
+      "chapter": 1,
+      "year": "2018"
+    },
+    {
+      "id": 155,
+      "title": "Grin Logos for Community Consideration",
+      "slug": "grin-logos-for-community-consideration",
+      "created_at": "2018-02-02T17:08:35.409Z",
+      "score": 227.65,
+      "filepath": "2018\\grin-logos-for-community-consideration.json",
+      "views": 16632,
+      "posts_count": 262,
+      "like_count": 380,
+      "core_posters": [
+        "igno.peverell",
+        "jaspervdm",
+        "yeastplume",
+        "hashmap",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {},
+      "chapter": 1,
+      "year": "2018"
+    },
+    {
+      "id": 171,
+      "title": "Emission rate of Grin",
+      "slug": "emission-rate-of-grin",
+      "created_at": "2018-02-08T16:14:01.117Z",
+      "score": 287.87,
+      "filepath": "2018\\emission-rate-of-grin.json",
+      "views": 37282,
+      "posts_count": 286,
+      "like_count": 520,
+      "core_posters": [
+        "david",
+        "igno.peverell",
+        "davidtavarez",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "emission": 3
+      },
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 188,
+      "title": "Grin Wallet URL Format",
+      "slug": "grin-wallet-url-format",
+      "created_at": "2018-02-16T02:56:24.807Z",
+      "score": 78.96,
+      "filepath": "2018\\grin-wallet-url-format.json",
+      "views": 4995,
+      "posts_count": 23,
+      "like_count": 15,
+      "core_posters": [
+        "igno.peverell",
+        "tromp",
+        "antioch",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 3
+      },
+      "chapter": 1,
+      "year": "2018"
+    },
+    {
+      "id": 250,
+      "title": "Genesis block message",
+      "slug": "genesis-block-message",
+      "created_at": "2018-03-07T03:20:58.611Z",
+      "score": 69.25,
+      "filepath": "2018\\genesis-block-message.json",
+      "views": 3508,
+      "posts_count": 19,
+      "like_count": 16,
+      "core_posters": [
+        "igno.peverell",
+        "yeastplume",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "launch": 3
+      },
+      "chapter": 1,
+      "year": "2018"
+    },
+    {
+      "id": 361,
+      "title": "Yeastplume - Progress update thread - May - Sept 2018",
+      "slug": "yeastplume-progress-update-thread-may-sept-2018",
+      "created_at": "2018-05-04T14:02:23.767Z",
+      "score": 74.45,
+      "filepath": "2018\\yeastplume-progress-update-thread-may-sept-2018.json",
+      "views": 8166,
+      "posts_count": 23,
+      "like_count": 97,
+      "core_posters": [
+        "yeastplume"
+      ],
+      "keyword_matches": {
+        "pow": 1,
+        "governance": 1,
+        "wallet": 2,
+        "privacy": 1
+      },
+      "chapter": 1,
+      "year": "2018"
+    },
+    {
+      "id": 379,
+      "title": "ASICs and Governance",
+      "slug": "asics-and-governance",
+      "created_at": "2018-05-09T18:33:48.058Z",
+      "score": 110.57,
+      "filepath": "2018\\asics-and-governance.json",
+      "views": 5410,
+      "posts_count": 51,
+      "like_count": 25,
+      "core_posters": [
+        "igno.peverell",
+        "quentinlesceller",
+        "hashmap",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "pow": 4,
+        "governance": 3
+      },
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 461,
+      "title": "Governance plan",
+      "slug": "governance-plan",
+      "created_at": "2018-06-12T07:38:36.190Z",
+      "score": 71.95,
+      "filepath": "2018\\governance-plan.json",
+      "views": 3707,
+      "posts_count": 27,
+      "like_count": 20,
+      "core_posters": [
+        "igno.peverell",
+        "hashmap",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3
+      },
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 484,
+      "title": "Currency Symbol [ ɠ / ꞡ / ǥ / other ] #BS",
+      "slug": "currency-symbol-other-bs",
+      "created_at": "2018-06-20T23:06:10.265Z",
+      "score": 79.58,
+      "filepath": "2018\\currency-symbol-other-bs.json",
+      "views": 9211,
+      "posts_count": 89,
+      "like_count": 68,
+      "core_posters": [
+        "tromp",
+        "jaspervdm",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 1
+      },
+      "chapter": 1,
+      "year": "2018"
+    },
+    {
+      "id": 615,
+      "title": "Governance consensus, baby step 1 (20180807 meeting)",
+      "slug": "governance-consensus-baby-step-1-20180807-meeting",
+      "created_at": "2018-08-08T04:29:40.416Z",
+      "score": 75.33,
+      "filepath": "2018\\governance-consensus-baby-step-1-20180807-meeting.json",
+      "views": 2736,
+      "posts_count": 11,
+      "like_count": 22,
+      "core_posters": [
+        "igno.peverell",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "emission": 2,
+        "privacy": 2
+      },
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 635,
+      "title": "Technomity new members",
+      "slug": "technomity-new-members",
+      "created_at": "2018-08-12T19:04:29.329Z",
+      "score": 86.12,
+      "filepath": "2018\\technomity-new-members.json",
+      "views": 3995,
+      "posts_count": 27,
+      "like_count": 27,
+      "core_posters": [
+        "igno.peverell",
+        "yeastplume",
+        "tromp",
+        "jaspervdm"
+      ],
+      "keyword_matches": {
+        "governance": 4
+      },
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 702,
+      "title": "The Case for Miner Controlled Emissions",
+      "slug": "the-case-for-miner-controlled-emissions",
+      "created_at": "2018-08-21T21:47:00.622Z",
+      "score": 85.71,
+      "filepath": "2018\\the-case-for-miner-controlled-emissions.json",
+      "views": 4142,
+      "posts_count": 47,
+      "like_count": 23,
+      "core_posters": [
+        "igno.peverell",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "pow": 1,
+        "emission": 4
+      },
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 713,
+      "title": "Proof of work update",
+      "slug": "proof-of-work-update",
+      "created_at": "2018-08-27T16:54:51.415Z",
+      "score": 87.86,
+      "filepath": "2018\\proof-of-work-update.json",
+      "views": 12204,
+      "posts_count": 82,
+      "like_count": 20,
+      "core_posters": [
+        "igno.peverell",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "pow": 3
+      },
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 738,
+      "title": "Cuckoo Cycle weakness and possible fix (Cuckatoo Cycle)",
+      "slug": "cuckoo-cycle-weakness-and-possible-fix-cuckatoo-cycle",
+      "created_at": "2018-09-02T13:53:08.556Z",
+      "score": 75.13,
+      "filepath": "2018\\cuckoo-cycle-weakness-and-possible-fix-cuckatoo-cycle.json",
+      "views": 4299,
+      "posts_count": 18,
+      "like_count": 8,
+      "core_posters": [
+        "igno.peverell",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 7
+      },
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 820,
+      "title": "Scheduled PoW upgrades proposal",
+      "slug": "scheduled-pow-upgrades-proposal",
+      "created_at": "2018-09-17T13:23:36.510Z",
+      "score": 81.08,
+      "filepath": "2018\\scheduled-pow-upgrades-proposal.json",
+      "views": 5528,
+      "posts_count": 43,
+      "like_count": 22,
+      "core_posters": [
+        "igno.peverell",
+        "tromp",
+        "jaspervdm",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "pow": 1
+      },
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 853,
+      "title": "TMGOX (The Magic Gathering Online Exchange)",
+      "slug": "tmgox-the-magic-gathering-online-exchange",
+      "created_at": "2018-09-23T00:52:05.058Z",
+      "score": 79.18,
+      "filepath": "2018\\tmgox-the-magic-gathering-online-exchange.json",
+      "views": 5358,
+      "posts_count": 87,
+      "like_count": 136,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {},
+      "chapter": 2,
+      "year": "2018"
+    },
+    {
+      "id": 933,
+      "title": "Yeastplume - Progress update thread - Oct 18 - Feb 19",
+      "slug": "yeastplume-progress-update-thread-oct-18-feb-19",
+      "created_at": "2018-10-05T15:05:32.952Z",
+      "score": 113.33,
+      "filepath": "2018\\yeastplume-progress-update-thread-oct-18-feb-19.json",
+      "views": 9284,
+      "posts_count": 37,
+      "like_count": 115,
+      "core_posters": [
+        "igno.peverell",
+        "yeastplume",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "pow": 2,
+        "governance": 1,
+        "privacy": 1
+      },
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 970,
+      "title": "Governance Agendas & Meeting notes",
+      "slug": "governance-agendas-meeting-notes",
+      "created_at": "2018-10-12T22:10:54.336Z",
+      "score": 111.17,
+      "filepath": "2018\\governance-agendas-meeting-notes.json",
+      "views": 10287,
+      "posts_count": 138,
+      "like_count": 168,
+      "core_posters": [
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3
+      },
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1017,
+      "title": "Choice of ASIC Resistant PoW for GPU miners",
+      "slug": "choice-of-asic-resistant-pow-for-gpu-miners",
+      "created_at": "2018-10-22T19:48:36.120Z",
+      "score": 111.55,
+      "filepath": "2018\\choice-of-asic-resistant-pow-for-gpu-miners.json",
+      "views": 15621,
+      "posts_count": 111,
+      "like_count": 41,
+      "core_posters": [
+        "igno.peverell",
+        "tromp",
+        "antioch"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "pow": 6
+      },
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1035,
+      "title": "Help me design and add content to our site!",
+      "slug": "help-me-design-and-add-content-to-our-site",
+      "created_at": "2018-10-26T00:40:47.089Z",
+      "score": 89.18,
+      "filepath": "2018\\help-me-design-and-add-content-to-our-site.json",
+      "views": 4911,
+      "posts_count": 60,
+      "like_count": 100,
+      "core_posters": [
+        "igno.peverell",
+        "hashmap",
+        "lehnberg"
+      ],
+      "keyword_matches": {},
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1045,
+      "title": "Benedikt Bünz's UTXO commitments / RSA Accumulators",
+      "slug": "benedikt-bunzs-utxo-commitments-rsa-accumulators",
+      "created_at": "2018-10-27T17:39:06.300Z",
+      "score": 90.8,
+      "filepath": "2018\\benedikt-bunzs-utxo-commitments-rsa-accumulators.json",
+      "views": 4480,
+      "posts_count": 37,
+      "like_count": 65,
+      "core_posters": [
+        "david",
+        "igno.peverell",
+        "antioch",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {},
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1114,
+      "title": "Help us write Grin's Mission statement!",
+      "slug": "help-us-write-grins-mission-statement",
+      "created_at": "2018-11-01T15:34:37.359Z",
+      "score": 82.93,
+      "filepath": "2018\\help-us-write-grins-mission-statement.json",
+      "views": 6773,
+      "posts_count": 116,
+      "like_count": 102,
+      "core_posters": [
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {},
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1217,
+      "title": "Confidential Assets",
+      "slug": "confidential-assets",
+      "created_at": "2018-11-18T02:22:14.395Z",
+      "score": 76.44,
+      "filepath": "2018\\confidential-assets.json",
+      "views": 3624,
+      "posts_count": 24,
+      "like_count": 24,
+      "core_posters": [
+        "igno.peverell",
+        "tromp",
+        "antioch"
+      ],
+      "keyword_matches": {
+        "privacy": 4
+      },
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1414,
+      "title": "Questioning Core Assumptions on Our Emissions Model",
+      "slug": "questioning-core-assumptions-on-our-emissions-model",
+      "created_at": "2018-12-13T23:21:27.915Z",
+      "score": 77.13,
+      "filepath": "2018\\questioning-core-assumptions-on-our-emissions-model.json",
+      "views": 4436,
+      "posts_count": 50,
+      "like_count": 37,
+      "core_posters": [
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "emission": 5
+      },
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1493,
+      "title": "Floonet release and upcoming mainnet",
+      "slug": "floonet-release-and-upcoming-mainnet",
+      "created_at": "2018-12-21T01:14:59.215Z",
+      "score": 78.61,
+      "filepath": "2018\\floonet-release-and-upcoming-mainnet.json",
+      "views": 5558,
+      "posts_count": 19,
+      "like_count": 23,
+      "core_posters": [
+        "igno.peverell"
+      ],
+      "keyword_matches": {
+        "launch": 9
+      },
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1557,
+      "title": "PoW for Mainnet? cuckaroo29 vs cuckatoo31+",
+      "slug": "pow-for-mainnet-cuckaroo29-vs-cuckatoo31",
+      "created_at": "2018-12-26T19:15:49.940Z",
+      "score": 68.51,
+      "filepath": "2018\\pow-for-mainnet-cuckaroo29-vs-cuckatoo31.json",
+      "views": 3697,
+      "posts_count": 13,
+      "like_count": 1,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "launch": 4,
+        "pow": 7
+      },
+      "chapter": 3,
+      "year": "2018"
+    },
+    {
+      "id": 1654,
+      "title": "Best GPU for mining Grin",
+      "slug": "best-gpu-for-mining-grin",
+      "created_at": "2019-01-02T09:07:31.030Z",
+      "score": 104.35,
+      "filepath": "2019\\best-gpu-for-mining-grin.json",
+      "views": 30839,
+      "posts_count": 181,
+      "like_count": 110,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 3
+      },
+      "chapter": 3,
+      "year": "2019"
+    },
+    {
+      "id": 1724,
+      "title": "VOTE on Grin's Mission statement",
+      "slug": "vote-on-grins-mission-statement",
+      "created_at": "2019-01-04T18:14:04.216Z",
+      "score": 74.69,
+      "filepath": "2019\\vote-on-grins-mission-statement.json",
+      "views": 4066,
+      "posts_count": 90,
+      "like_count": 61,
+      "core_posters": [
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "privacy": 1
+      },
+      "chapter": 3,
+      "year": "2019"
+    },
+    {
+      "id": 1732,
+      "title": "What to mine? Choosing between Cuckatoo31+ and Cuckaroo29",
+      "slug": "what-to-mine-choosing-between-cuckatoo31-and-cuckaroo29",
+      "created_at": "2019-01-04T20:41:43.992Z",
+      "score": 81.67,
+      "filepath": "2019\\what-to-mine-choosing-between-cuckatoo31-and-cuckaroo29.json",
+      "views": 33616,
+      "posts_count": 41,
+      "like_count": 29,
+      "core_posters": [
+        "tromp",
+        "jaspervdm"
+      ],
+      "keyword_matches": {
+        "pow": 8
+      },
+      "chapter": 3,
+      "year": "2019"
+    },
+    {
+      "id": 1854,
+      "title": "Grin on Ledger Hardware Wallet",
+      "slug": "grin-on-ledger-hardware-wallet",
+      "created_at": "2019-01-08T14:34:11.174Z",
+      "score": 67.15,
+      "filepath": "2019\\grin-on-ledger-hardware-wallet.json",
+      "views": 5618,
+      "posts_count": 12,
+      "like_count": 49,
+      "core_posters": [
+        "davidtavarez",
+        "tromp",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {
+        "wallet": 3
+      },
+      "chapter": 3,
+      "year": "2019"
+    },
+    {
+      "id": 1949,
+      "title": "Grin Miner Dev Donation Option",
+      "slug": "grin-miner-dev-donation-option",
+      "created_at": "2019-01-10T02:38:12.045Z",
+      "score": 67.95,
+      "filepath": "2019\\grin-miner-dev-donation-option.json",
+      "views": 1493,
+      "posts_count": 26,
+      "like_count": 8,
+      "core_posters": [
+        "igno.peverell",
+        "tromp",
+        "antioch"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "wallet": 1,
+        "emission": 1
+      },
+      "chapter": 3,
+      "year": "2019"
+    },
+    {
+      "id": 2163,
+      "title": "Monkyyys market shitposting thread",
+      "slug": "monkyyys-market-shitposting-thread",
+      "created_at": "2019-01-14T22:07:48.985Z",
+      "score": 479.16,
+      "filepath": "2019\\monkyyys-market-shitposting-thread.json",
+      "views": 37838,
+      "posts_count": 1061,
+      "like_count": 1032,
+      "core_posters": [
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {},
+      "chapter": 3,
+      "year": "2019"
+    },
+    {
+      "id": 2177,
+      "title": "Bminer 15.7.6 Fix Cuckaroo29d on RTX-series cards",
+      "slug": "bminer-15-7-6-fix-cuckaroo29d-on-rtx-series-cards",
+      "created_at": "2019-01-15T05:28:24.574Z",
+      "score": 108.83,
+      "filepath": "2019\\bminer-15-7-6-fix-cuckaroo29d-on-rtx-series-cards.json",
+      "views": 44690,
+      "posts_count": 319,
+      "like_count": 57,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 4
+      },
+      "chapter": 4,
+      "year": "2019"
+    },
+    {
+      "id": 2184,
+      "title": "Miner for AMD/NVIDIA 4G 6G 8G 10G GPU from Minerbabe",
+      "slug": "miner-for-amd-nvidia-4g-6g-8g-10g-gpu-from-minerbabe",
+      "created_at": "2019-01-15T06:56:48.666Z",
+      "score": 94.26,
+      "filepath": "2019\\miner-for-amd-nvidia-4g-6g-8g-10g-gpu-from-minerbabe.json",
+      "views": 32012,
+      "posts_count": 355,
+      "like_count": 24,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 2
+      },
+      "chapter": 4,
+      "year": "2019"
+    },
+    {
+      "id": 2442,
+      "title": "Cuckatoo31+ (im)mutability",
+      "slug": "cuckatoo31-im-mutability",
+      "created_at": "2019-01-16T23:49:59.382Z",
+      "score": 64.63,
+      "filepath": "2019\\cuckatoo31-im-mutability.json",
+      "views": 3022,
+      "posts_count": 12,
+      "like_count": 10,
+      "core_posters": [
+        "igno.peverell",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 5
+      },
+      "chapter": 4,
+      "year": "2019"
+    },
+    {
+      "id": 2519,
+      "title": "Introducing the GRN1 - A Cuckatoo31 ASIC from Obelisk",
+      "slug": "introducing-the-grn1-a-cuckatoo31-asic-from-obelisk",
+      "created_at": "2019-01-17T17:18:20.841Z",
+      "score": 56.25,
+      "filepath": "2019\\introducing-the-grn1-a-cuckatoo31-asic-from-obelisk.json",
+      "views": 4534,
+      "posts_count": 27,
+      "like_count": 15,
+      "core_posters": [
+        "antioch"
+      ],
+      "keyword_matches": {
+        "pow": 6
+      },
+      "chapter": 4,
+      "year": "2019"
+    },
+    {
+      "id": 3682,
+      "title": "[SOLVED] Early disappointments",
+      "slug": "solved-early-disappointments",
+      "created_at": "2019-02-01T04:23:17.964Z",
+      "score": 118.06,
+      "filepath": "2019\\solved-early-disappointments.json",
+      "views": 12605,
+      "posts_count": 88,
+      "like_count": 190,
+      "core_posters": [
+        "igno.peverell",
+        "jaspervdm"
+      ],
+      "keyword_matches": {
+        "launch": 1
+      },
+      "chapter": 4,
+      "year": "2019"
+    },
+    {
+      "id": 4114,
+      "title": "Grin transaction fees",
+      "slug": "grin-transaction-fees",
+      "created_at": "2019-02-18T00:29:03.799Z",
+      "score": 53.21,
+      "filepath": "2019\\grin-transaction-fees.json",
+      "views": 1596,
+      "posts_count": 15,
+      "like_count": 17,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 1,
+        "wallet": 4,
+        "privacy": 1
+      },
+      "chapter": 4,
+      "year": "2019"
+    },
+    {
+      "id": 4125,
+      "title": "SuperGrin - GUI Wallet [Mainnet] v1.0.2",
+      "slug": "supergrin-gui-wallet-mainnet-v1-0-2",
+      "created_at": "2019-02-18T15:12:42.349Z",
+      "score": 53.11,
+      "filepath": "2019\\supergrin-gui-wallet-mainnet-v1-0-2.json",
+      "views": 3966,
+      "posts_count": 17,
+      "like_count": 14,
+      "core_posters": [],
+      "keyword_matches": {
+        "launch": 4,
+        "wallet": 4
+      },
+      "chapter": 4,
+      "year": "2019"
+    },
+    {
+      "id": 4139,
+      "title": "Follow all the Grin Meetups Here",
+      "slug": "follow-all-the-grin-meetups-here",
+      "created_at": "2019-02-18T21:23:43.961Z",
+      "score": 56.07,
+      "filepath": "2019\\follow-all-the-grin-meetups-here.json",
+      "views": 1077,
+      "posts_count": 19,
+      "like_count": 26,
+      "core_posters": [
+        "hashmap",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "conference": 4
+      },
+      "chapter": 4,
+      "year": "2019"
+    },
+    {
+      "id": 4303,
+      "title": "Yeastplume - Progress update thread - Mar 19 to Sep 19",
+      "slug": "yeastplume-progress-update-thread-mar-19-to-sep-19",
+      "created_at": "2019-03-01T14:09:55.231Z",
+      "score": 89.43,
+      "filepath": "2019\\yeastplume-progress-update-thread-mar-19-to-sep-19.json",
+      "views": 10401,
+      "posts_count": 30,
+      "like_count": 168,
+      "core_posters": [
+        "yeastplume",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {
+        "governance": 1
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 4546,
+      "title": "Announcing the Grin++ Wallet! (finally!)",
+      "slug": "announcing-the-grin-wallet-finally",
+      "created_at": "2019-03-19T15:39:17.752Z",
+      "score": 85.93,
+      "filepath": "2019\\announcing-the-grin-wallet-finally.json",
+      "views": 9344,
+      "posts_count": 71,
+      "like_count": 79,
+      "core_posters": [
+        "david",
+        "jaspervdm"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "wallet": 3
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 4693,
+      "title": "[POTENTIAL SCAM?] Grin Web Wallet - Confidentially Safely Conveniently",
+      "slug": "potential-scam-grin-web-wallet-confidentially-safely-conveniently",
+      "created_at": "2019-03-31T20:31:43.989Z",
+      "score": 105.36,
+      "filepath": "2019\\potential-scam-grin-web-wallet-confidentially-safely-conveniently.json",
+      "views": 11554,
+      "posts_count": 167,
+      "like_count": 90,
+      "core_posters": [
+        "david",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 3,
+        "privacy": 3
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 4760,
+      "title": "Niffler, An out-of-the-box open sourced Grin GUI Wallet",
+      "slug": "niffler-an-out-of-the-box-open-sourced-grin-gui-wallet",
+      "created_at": "2019-04-08T01:36:02.939Z",
+      "score": 184.15,
+      "filepath": "2019\\niffler-an-out-of-the-box-open-sourced-grin-gui-wallet.json",
+      "views": 13915,
+      "posts_count": 221,
+      "like_count": 293,
+      "core_posters": [
+        "david",
+        "davidtavarez",
+        "quentinlesceller",
+        "antioch"
+      ],
+      "keyword_matches": {
+        "wallet": 3
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 4774,
+      "title": "What is the intended market/use-case of Grin?",
+      "slug": "what-is-the-intended-market-use-case-of-grin",
+      "created_at": "2019-04-09T22:41:09.061Z",
+      "score": 88.73,
+      "filepath": "2019\\what-is-the-intended-market-use-case-of-grin.json",
+      "views": 2091,
+      "posts_count": 68,
+      "like_count": 143,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "privacy": 1
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 5082,
+      "title": "mid-July PoW hardfork: Cuckaroo29 -> Cuckarood29",
+      "slug": "mid-july-pow-hardfork-cuckaroo29-cuckarood29",
+      "created_at": "2019-05-28T14:22:10.508Z",
+      "score": 67.77,
+      "filepath": "2019\\mid-july-pow-hardfork-cuckaroo29-cuckarood29.json",
+      "views": 5266,
+      "posts_count": 13,
+      "like_count": 10,
+      "core_posters": [
+        "tromp",
+        "jaspervdm"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "hardfork": 3,
+        "pow": 4
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 5191,
+      "title": "Proposal: Grin Governance Iteration",
+      "slug": "proposal-grin-governance-iteration",
+      "created_at": "2019-06-12T18:47:28.652Z",
+      "score": 79.5,
+      "filepath": "2019\\proposal-grin-governance-iteration.json",
+      "views": 2537,
+      "posts_count": 18,
+      "like_count": 51,
+      "core_posters": [
+        "yeastplume",
+        "joltz",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 6
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 5258,
+      "title": "Binance Listing",
+      "slug": "binance-listing",
+      "created_at": "2019-06-18T17:24:28.347Z",
+      "score": 95.46,
+      "filepath": "2019\\binance-listing.json",
+      "views": 6833,
+      "posts_count": 92,
+      "like_count": 119,
+      "core_posters": [
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "privacy": 1
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 5296,
+      "title": "Yo Dawg, I heard you like CoinJoins",
+      "slug": "yo-dawg-i-heard-you-like-coinjoins",
+      "created_at": "2019-06-22T21:14:31.170Z",
+      "score": 101.9,
+      "filepath": "2019\\yo-dawg-i-heard-you-like-coinjoins.json",
+      "views": 18061,
+      "posts_count": 42,
+      "like_count": 151,
+      "core_posters": [
+        "david",
+        "jaspervdm",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "privacy": 1
+      },
+      "chapter": 5,
+      "year": "2019"
+    },
+    {
+      "id": 5301,
+      "title": "On Igno's Absence",
+      "slug": "on-ignos-absence",
+      "created_at": "2019-06-23T13:50:10.022Z",
+      "score": 71.08,
+      "filepath": "2019\\on-ignos-absence.json",
+      "views": 6389,
+      "posts_count": 39,
+      "like_count": 99,
+      "core_posters": [
+        "yeastplume",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {
+        "governance": 1
+      },
+      "chapter": 10,
+      "year": "2019"
+    },
+    {
+      "id": 5398,
+      "title": "Grin v2.0.0 Node + Wallet Released",
+      "slug": "grin-v2-0-0-node-wallet-released",
+      "created_at": "2019-07-01T14:16:29.919Z",
+      "score": 79.06,
+      "filepath": "2019\\grin-v2-0-0-node-wallet-released.json",
+      "views": 5244,
+      "posts_count": 13,
+      "like_count": 21,
+      "core_posters": [
+        "yeastplume",
+        "jaspervdm",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "hardfork": 1,
+        "pow": 1,
+        "wallet": 5,
+        "protocol": 1
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 5650,
+      "title": "Opinions regarding Grin",
+      "slug": "opinions-regarding-grin",
+      "created_at": "2019-07-22T15:35:04.010Z",
+      "score": 77.91,
+      "filepath": "2019\\opinions-regarding-grin.json",
+      "views": 3065,
+      "posts_count": 60,
+      "like_count": 72,
+      "core_posters": [
+        "tromp",
+        "jaspervdm",
+        "joltz"
+      ],
+      "keyword_matches": {
+        "governance": 1
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 5672,
+      "title": "How To Increase Grin Adoption",
+      "slug": "how-to-increase-grin-adoption",
+      "created_at": "2019-07-25T20:44:11.044Z",
+      "score": 113.88,
+      "filepath": "2019\\how-to-increase-grin-adoption.json",
+      "views": 6079,
+      "posts_count": 124,
+      "like_count": 177,
+      "core_posters": [
+        "david",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "privacy": 1
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 5676,
+      "title": "I am Ignotus - In dedication to Ignotus Peverell",
+      "slug": "i-am-ignotus-in-dedication-to-ignotus-peverell",
+      "created_at": "2019-07-26T16:45:39.722Z",
+      "score": 89.43,
+      "filepath": "2019\\i-am-ignotus-in-dedication-to-ignotus-peverell.json",
+      "views": 3641,
+      "posts_count": 27,
+      "like_count": 107,
+      "core_posters": [
+        "igno.peverell",
+        "antioch",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 1
+      },
+      "chapter": 10,
+      "year": "2019"
+    },
+    {
+      "id": 5727,
+      "title": "Grin Poster creation team",
+      "slug": "grin-poster-creation-team",
+      "created_at": "2019-07-31T04:12:59.406Z",
+      "score": 66.23,
+      "filepath": "2019\\grin-poster-creation-team.json",
+      "views": 1830,
+      "posts_count": 39,
+      "like_count": 79,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "wallet": 1,
+        "emission": 1
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 5846,
+      "title": "Grin Icon Branding",
+      "slug": "grin-icon-branding",
+      "created_at": "2019-08-15T07:49:40.511Z",
+      "score": 76.17,
+      "filepath": "2019\\grin-icon-branding.json",
+      "views": 3676,
+      "posts_count": 70,
+      "like_count": 109,
+      "core_posters": [
+        "tromp",
+        "antioch"
+      ],
+      "keyword_matches": {},
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 5900,
+      "title": "Grin 💕 and Encouragement",
+      "slug": "grin-and-encouragement",
+      "created_at": "2019-08-20T15:19:10.406Z",
+      "score": 257.07,
+      "filepath": "2019\\grin-and-encouragement.json",
+      "views": 6240,
+      "posts_count": 108,
+      "like_count": 752,
+      "core_posters": [
+        "lehnberg"
+      ],
+      "keyword_matches": {},
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 5919,
+      "title": "Below 1$ condition",
+      "slug": "below-1-condition",
+      "created_at": "2019-08-22T15:37:33.373Z",
+      "score": 95.64,
+      "filepath": "2019\\below-1-condition.json",
+      "views": 4366,
+      "posts_count": 97,
+      "like_count": 104,
+      "core_posters": [
+        "tromp",
+        "davidtavarez",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "pow": 1,
+        "emission": 1
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 6056,
+      "title": "Request For Funding, @JRandomCryptographer",
+      "slug": "request-for-funding-jrandomcryptographer",
+      "created_at": "2019-09-12T01:28:29.134Z",
+      "score": 104.9,
+      "filepath": "2019\\request-for-funding-jrandomcryptographer.json",
+      "views": 2402,
+      "posts_count": 44,
+      "like_count": 108,
+      "core_posters": [
+        "david",
+        "tromp",
+        "jaspervdm"
+      ],
+      "keyword_matches": {
+        "governance": 4,
+        "wallet": 1,
+        "privacy": 1
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 6119,
+      "title": "3 Reasons Why BEAM is Winning",
+      "slug": "3-reasons-why-beam-is-winning",
+      "created_at": "2019-09-22T15:14:48.938Z",
+      "score": 121.53,
+      "filepath": "2019\\3-reasons-why-beam-is-winning.json",
+      "views": 6969,
+      "posts_count": 94,
+      "like_count": 207,
+      "core_posters": [
+        "david",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "wallet": 2
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 6153,
+      "title": "Grin-tech.org domain expiration",
+      "slug": "grin-tech-org-domain-expiration",
+      "created_at": "2019-09-29T07:14:22.500Z",
+      "score": 72.16,
+      "filepath": "2019\\grin-tech-org-domain-expiration.json",
+      "views": 4195,
+      "posts_count": 54,
+      "like_count": 82,
+      "core_posters": [
+        "antioch",
+        "lehnberg",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {},
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 6327,
+      "title": "#grin2020 Roadmap - calling for blog posts with ideas",
+      "slug": "grin2020-roadmap-calling-for-blog-posts-with-ideas",
+      "created_at": "2019-10-27T19:28:03.792Z",
+      "score": 136.34,
+      "filepath": "2019\\grin2020-roadmap-calling-for-blog-posts-with-ideas.json",
+      "views": 7013,
+      "posts_count": 80,
+      "like_count": 153,
+      "core_posters": [
+        "david",
+        "jaspervdm",
+        "yeastplume",
+        "tromp",
+        "lehnberg",
+        "phyro"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "conference": 1,
+        "privacy": 1
+      },
+      "chapter": 10,
+      "year": "2019"
+    },
+    {
+      "id": 6446,
+      "title": "Donation to the Grin General Fund - Nov 11",
+      "slug": "donation-to-the-grin-general-fund-nov-11",
+      "created_at": "2019-11-11T19:07:46.705Z",
+      "score": 87.18,
+      "filepath": "2019\\donation-to-the-grin-general-fund-nov-11.json",
+      "views": 10411,
+      "posts_count": 36,
+      "like_count": 143,
+      "core_posters": [
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "wallet": 1
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 6532,
+      "title": "Breaking Mimblewimble’s Privacy Model",
+      "slug": "breaking-mimblewimble-s-privacy-model",
+      "created_at": "2019-11-18T16:51:24.381Z",
+      "score": 88.94,
+      "filepath": "2019\\breaking-mimblewimble-s-privacy-model.json",
+      "views": 2694,
+      "posts_count": 25,
+      "like_count": 43,
+      "core_posters": [
+        "david",
+        "tromp",
+        "antioch",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {
+        "privacy": 6
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 6605,
+      "title": "Next PoW CuckARooM unveiled at GrinCon1",
+      "slug": "next-pow-cuckaroom-unveiled-at-grincon1",
+      "created_at": "2019-11-24T21:21:41.695Z",
+      "score": 85.36,
+      "filepath": "2019\\next-pow-cuckaroom-unveiled-at-grincon1.json",
+      "views": 4784,
+      "posts_count": 19,
+      "like_count": 36,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "hardfork": 1,
+        "pow": 8,
+        "conference": 3
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 6767,
+      "title": "Request for Funding, @lehnberg: Jan-Mar 2020",
+      "slug": "request-for-funding-lehnberg-jan-mar-2020",
+      "created_at": "2019-12-22T12:03:44.510Z",
+      "score": 115.81,
+      "filepath": "2019\\request-for-funding-lehnberg-jan-mar-2020.json",
+      "views": 3868,
+      "posts_count": 67,
+      "like_count": 92,
+      "core_posters": [
+        "david",
+        "antioch",
+        "yeastplume",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 4,
+        "privacy": 1
+      },
+      "chapter": 6,
+      "year": "2019"
+    },
+    {
+      "id": 6878,
+      "title": "Yeastplume - Progress update thread - Jan to March 2020",
+      "slug": "yeastplume-progress-update-thread-jan-to-march-2020",
+      "created_at": "2020-01-10T16:36:37.063Z",
+      "score": 76.3,
+      "filepath": "2020\\yeastplume-progress-update-thread-jan-to-march-2020.json",
+      "views": 4037,
+      "posts_count": 10,
+      "like_count": 72,
+      "core_posters": [
+        "yeastplume"
+      ],
+      "keyword_matches": {
+        "launch": 3,
+        "hardfork": 1,
+        "governance": 1,
+        "wallet": 1,
+        "emission": 1,
+        "privacy": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7169,
+      "title": "Let's talk about the elephant in the room",
+      "slug": "lets-talk-about-the-elephant-in-the-room",
+      "created_at": "2020-03-23T16:36:37.322Z",
+      "score": 127.09,
+      "filepath": "2020\\lets-talk-about-the-elephant-in-the-room.json",
+      "views": 5371,
+      "posts_count": 91,
+      "like_count": 180,
+      "core_posters": [
+        "david",
+        "tromp",
+        "davidtavarez",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "pow": 1,
+        "wallet": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7209,
+      "title": "The 'Official' Grin GUI Wallet",
+      "slug": "the-official-grin-gui-wallet",
+      "created_at": "2020-04-01T17:28:05.867Z",
+      "score": 93.37,
+      "filepath": "2020\\the-official-grin-gui-wallet.json",
+      "views": 2775,
+      "posts_count": 22,
+      "like_count": 52,
+      "core_posters": [
+        "david",
+        "yeastplume",
+        "davidtavarez",
+        "tromp",
+        "joltz"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "wallet": 3,
+        "privacy": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7231,
+      "title": "Network Upgrades / Hard forks on Grin v5.0.0 and beyond",
+      "slug": "network-upgrades-hard-forks-on-grin-v5-0-0-and-beyond",
+      "created_at": "2020-04-06T20:57:01.116Z",
+      "score": 89.68,
+      "filepath": "2020\\network-upgrades-hard-forks-on-grin-v5-0-0-and-beyond.json",
+      "views": 2951,
+      "posts_count": 34,
+      "like_count": 30,
+      "core_posters": [
+        "david",
+        "tromp",
+        "antioch",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "hardfork": 6,
+        "privacy": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7257,
+      "title": "Request for Funding: BLS sigs research",
+      "slug": "request-for-funding-bls-sigs-research",
+      "created_at": "2020-04-13T16:22:10.779Z",
+      "score": 90.02,
+      "filepath": "2020\\request-for-funding-bls-sigs-research.json",
+      "views": 1950,
+      "posts_count": 24,
+      "like_count": 40,
+      "core_posters": [
+        "antioch",
+        "yeastplume",
+        "quentinlesceller",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "protocol": 1,
+        "privacy": 1
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7361,
+      "title": "Pep Talk for one sided transactions",
+      "slug": "pep-talk-for-one-sided-transactions",
+      "created_at": "2020-05-25T21:09:45.764Z",
+      "score": 108.15,
+      "filepath": "2020\\pep-talk-for-one-sided-transactions.json",
+      "views": 4722,
+      "posts_count": 74,
+      "like_count": 113,
+      "core_posters": [
+        "david",
+        "tromp",
+        "davidtavarez",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 3
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7383,
+      "title": "Came Across 1st Grin ASIC of the World",
+      "slug": "came-across-1st-grin-asic-of-the-world",
+      "created_at": "2020-05-31T23:19:55.162Z",
+      "score": 103.57,
+      "filepath": "2020\\came-across-1st-grin-asic-of-the-world.json",
+      "views": 10069,
+      "posts_count": 163,
+      "like_count": 116,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 3
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7415,
+      "title": "Replay Attacks and possible mitigations",
+      "slug": "replay-attacks-and-possible-mitigations",
+      "created_at": "2020-06-10T21:47:49.571Z",
+      "score": 100.01,
+      "filepath": "2020\\replay-attacks-and-possible-mitigations.json",
+      "views": 4186,
+      "posts_count": 129,
+      "like_count": 59,
+      "core_posters": [
+        "david",
+        "yeastplume",
+        "tromp",
+        "antioch"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "protocol": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7424,
+      "title": "BEAM price higher than GRIN today",
+      "slug": "beam-price-higher-than-grin-today",
+      "created_at": "2020-06-13T22:02:43.795Z",
+      "score": 140.78,
+      "filepath": "2020\\beam-price-higher-than-grin-today.json",
+      "views": 4053,
+      "posts_count": 171,
+      "like_count": 230,
+      "core_posters": [
+        "david",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "launch": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7458,
+      "title": "Request for funding / Antioch / Jul-Sep 2020",
+      "slug": "request-for-funding-antioch-jul-sep-2020",
+      "created_at": "2020-06-20T13:14:50.345Z",
+      "score": 87.01,
+      "filepath": "2020\\request-for-funding-antioch-jul-sep-2020.json",
+      "views": 1476,
+      "posts_count": 33,
+      "like_count": 49,
+      "core_posters": [
+        "davidtavarez",
+        "antioch",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "wallet": 2,
+        "protocol": 1,
+        "privacy": 1
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7526,
+      "title": "Efficient solution to verify kernel uniqueness + better absolute timelocks",
+      "slug": "efficient-solution-to-verify-kernel-uniqueness-better-absolute-timelocks",
+      "created_at": "2020-07-09T20:44:08.714Z",
+      "score": 90.77,
+      "filepath": "2020\\efficient-solution-to-verify-kernel-uniqueness-better-absolute-timelocks.json",
+      "views": 2561,
+      "posts_count": 61,
+      "like_count": 52,
+      "core_posters": [
+        "david",
+        "tromp",
+        "antioch",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "protocol": 3
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7527,
+      "title": "Play Attacks and possible mitigations",
+      "slug": "play-attacks-and-possible-mitigations",
+      "created_at": "2020-07-10T07:00:41.986Z",
+      "score": 82.11,
+      "filepath": "2020\\play-attacks-and-possible-mitigations.json",
+      "views": 2315,
+      "posts_count": 55,
+      "like_count": 23,
+      "core_posters": [
+        "david",
+        "antioch",
+        "davidtavarez",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "protocol": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7560,
+      "title": "Request for funding @paouky",
+      "slug": "request-for-funding-paouky",
+      "created_at": "2020-07-21T18:44:23.935Z",
+      "score": 88.6,
+      "filepath": "2020\\request-for-funding-paouky.json",
+      "views": 1985,
+      "posts_count": 29,
+      "like_count": 57,
+      "core_posters": [
+        "david",
+        "davidtavarez",
+        "quentinlesceller",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7568,
+      "title": "A Message from Nervos",
+      "slug": "a-message-from-nervos",
+      "created_at": "2020-07-23T16:29:10.385Z",
+      "score": 85.74,
+      "filepath": "2020\\a-message-from-nervos.json",
+      "views": 2613,
+      "posts_count": 14,
+      "like_count": 115,
+      "core_posters": [
+        "joltz",
+        "quentinlesceller",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "privacy": 2
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7576,
+      "title": "Unique kernels without transaction expiry",
+      "slug": "unique-kernels-without-transaction-expiry",
+      "created_at": "2020-07-24T05:23:18.628Z",
+      "score": 89.19,
+      "filepath": "2020\\unique-kernels-without-transaction-expiry.json",
+      "views": 1427,
+      "posts_count": 46,
+      "like_count": 29,
+      "core_posters": [
+        "david",
+        "tromp",
+        "antioch",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 3,
+        "protocol": 3
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7621,
+      "title": "Eliminating finalize step",
+      "slug": "eliminating-finalize-step",
+      "created_at": "2020-08-02T17:10:46.930Z",
+      "score": 142.65,
+      "filepath": "2020\\eliminating-finalize-step.json",
+      "views": 6908,
+      "posts_count": 103,
+      "like_count": 172,
+      "core_posters": [
+        "david",
+        "antioch",
+        "davidtavarez",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 3,
+        "protocol": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7688,
+      "title": "Unique Kernel Thread #73",
+      "slug": "unique-kernel-thread-73",
+      "created_at": "2020-08-12T18:37:27.441Z",
+      "score": 83.08,
+      "filepath": "2020\\unique-kernel-thread-73.json",
+      "views": 2071,
+      "posts_count": 24,
+      "like_count": 26,
+      "core_posters": [
+        "david",
+        "tromp",
+        "antioch",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "wallet": 2,
+        "protocol": 3
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7774,
+      "title": "Request for funding @davidtavarez (Grin++ mobile wallet)",
+      "slug": "request-for-funding-davidtavarez-grin-mobile-wallet",
+      "created_at": "2020-08-29T23:15:23.018Z",
+      "score": 123.45,
+      "filepath": "2020\\request-for-funding-davidtavarez-grin-mobile-wallet.json",
+      "views": 2697,
+      "posts_count": 25,
+      "like_count": 128,
+      "core_posters": [
+        "david",
+        "antioch",
+        "yeastplume",
+        "davidtavarez",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "hardfork": 1,
+        "governance": 3,
+        "wallet": 3
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7785,
+      "title": "Wallet receiving clarification",
+      "slug": "wallet-receiving-clarification",
+      "created_at": "2020-09-02T01:28:47.467Z",
+      "score": 73.37,
+      "filepath": "2020\\wallet-receiving-clarification.json",
+      "views": 2508,
+      "posts_count": 24,
+      "like_count": 21,
+      "core_posters": [
+        "david",
+        "tromp",
+        "davidtavarez",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 4
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7801,
+      "title": "Dismantling the core team and governance structure",
+      "slug": "dismantling-the-core-team-and-governance-structure",
+      "created_at": "2020-09-05T07:23:17.362Z",
+      "score": 161.36,
+      "filepath": "2020\\dismantling-the-core-team-and-governance-structure.json",
+      "views": 6167,
+      "posts_count": 127,
+      "like_count": 195,
+      "core_posters": [
+        "david",
+        "antioch",
+        "davidtavarez",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 5
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7818,
+      "title": "Non-interactive txs and usability",
+      "slug": "non-interactive-txs-and-usability",
+      "created_at": "2020-09-11T09:50:52.642Z",
+      "score": 91.47,
+      "filepath": "2020\\non-interactive-txs-and-usability.json",
+      "views": 2013,
+      "posts_count": 35,
+      "like_count": 59,
+      "core_posters": [
+        "david",
+        "davidtavarez",
+        "tromp",
+        "antioch"
+      ],
+      "keyword_matches": {
+        "wallet": 4,
+        "privacy": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7865,
+      "title": "Ironbelly - Progress update thread (Sep - Dec 2020)",
+      "slug": "ironbelly-progress-update-thread-sep-dec-2020",
+      "created_at": "2020-09-28T00:32:29.491Z",
+      "score": 102.41,
+      "filepath": "2020\\ironbelly-progress-update-thread-sep-dec-2020.json",
+      "views": 4551,
+      "posts_count": 40,
+      "like_count": 147,
+      "core_posters": [
+        "davidtavarez",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "wallet": 4
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7886,
+      "title": "Transaction Round Naming Challenge",
+      "slug": "transaction-round-naming-challenge",
+      "created_at": "2020-10-10T14:08:49.566Z",
+      "score": 93.56,
+      "filepath": "2020\\transaction-round-naming-challenge.json",
+      "views": 2092,
+      "posts_count": 66,
+      "like_count": 62,
+      "core_posters": [
+        "david",
+        "tromp",
+        "antioch",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 4
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 7892,
+      "title": "Request for funding @jaspervdm, Nov-Jan 2020/21",
+      "slug": "request-for-funding-jaspervdm-nov-jan-2020-21",
+      "created_at": "2020-10-13T19:57:00.002Z",
+      "score": 91.97,
+      "filepath": "2020\\request-for-funding-jaspervdm-nov-jan-2020-21.json",
+      "views": 2636,
+      "posts_count": 34,
+      "like_count": 80,
+      "core_posters": [
+        "david",
+        "davidtavarez",
+        "jaspervdm",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "hardfork": 1,
+        "governance": 3
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7894,
+      "title": "Grin++ (mobile) - Progress update thread by @davidtavarez",
+      "slug": "grin-mobile-progress-update-thread-by-davidtavarez",
+      "created_at": "2020-10-14T08:20:43.444Z",
+      "score": 118.57,
+      "filepath": "2020\\grin-mobile-progress-update-thread-by-davidtavarez.json",
+      "views": 6037,
+      "posts_count": 43,
+      "like_count": 190,
+      "core_posters": [
+        "david",
+        "davidtavarez",
+        "lehnberg",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "wallet": 1
+      },
+      "chapter": 8,
+      "year": "2020"
+    },
+    {
+      "id": 7895,
+      "title": "Grin v5.0.0 network upgrade (Hard Fork 4: January 2021)",
+      "slug": "grin-v5-0-0-network-upgrade-hard-fork-4-january-2021",
+      "created_at": "2020-10-14T15:13:32.329Z",
+      "score": 77.52,
+      "filepath": "2020\\grin-v5-0-0-network-upgrade-hard-fork-4-january-2021.json",
+      "views": 13018,
+      "posts_count": 24,
+      "like_count": 44,
+      "core_posters": [
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "hardfork": 6
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 8070,
+      "title": "Grin++ for Android v0.0.1",
+      "slug": "grin-for-android-v0-0-1",
+      "created_at": "2020-12-14T17:04:33.272Z",
+      "score": 76.51,
+      "filepath": "2020\\grin-for-android-v0-0-1.json",
+      "views": 3934,
+      "posts_count": 27,
+      "like_count": 59,
+      "core_posters": [
+        "david",
+        "davidtavarez",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {
+        "wallet": 4
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 8089,
+      "title": "[ENDED] Sales in Forum for iPOLLO G1-Mini Miner with Exclusive Discount and 20% Donation Promise",
+      "slug": "ended-sales-in-forum-for-ipollo-g1-mini-miner-with-exclusive-discount-and-20-donation-promise",
+      "created_at": "2020-12-18T12:37:54.278Z",
+      "score": 95.13,
+      "filepath": "2020\\ended-sales-in-forum-for-ipollo-g1-mini-miner-with-exclusive-discount-and-20-donation-promise.json",
+      "views": 11414,
+      "posts_count": 98,
+      "like_count": 147,
+      "core_posters": [
+        "david",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "launch": 1
+      },
+      "chapter": 7,
+      "year": "2020"
+    },
+    {
+      "id": 8238,
+      "title": "Images on the togetherness of Grin and Tor",
+      "slug": "images-on-the-togetherness-of-grin-and-tor",
+      "created_at": "2021-01-14T09:52:42.292Z",
+      "score": 89.29,
+      "filepath": "2021\\images-on-the-togetherness-of-grin-and-tor.json",
+      "views": 1970,
+      "posts_count": 42,
+      "like_count": 173,
+      "core_posters": [
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "wallet": 2
+      },
+      "chapter": 7,
+      "year": "2021"
+    },
+    {
+      "id": 8276,
+      "title": "Beam is more successful than Grin?",
+      "slug": "beam-is-more-successful-than-grin",
+      "created_at": "2021-01-21T09:37:11.162Z",
+      "score": 75.75,
+      "filepath": "2021\\beam-is-more-successful-than-grin.json",
+      "views": 1593,
+      "posts_count": 60,
+      "like_count": 113,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {},
+      "chapter": 7,
+      "year": "2021"
+    },
+    {
+      "id": 8313,
+      "title": "Request for funding @jaspervdm, Feb-Apr 2021",
+      "slug": "request-for-funding-jaspervdm-feb-apr-2021",
+      "created_at": "2021-01-27T12:51:10.603Z",
+      "score": 98.43,
+      "filepath": "2021\\request-for-funding-jaspervdm-feb-apr-2021.json",
+      "views": 3710,
+      "posts_count": 33,
+      "like_count": 80,
+      "core_posters": [
+        "david",
+        "jaspervdm",
+        "davidtavarez",
+        "tromp",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 8322,
+      "title": "Mimblewimble CoinSwap proposal",
+      "slug": "mimblewimble-coinswap-proposal",
+      "created_at": "2021-01-28T23:18:43.539Z",
+      "score": 121.91,
+      "filepath": "2021\\mimblewimble-coinswap-proposal.json",
+      "views": 13241,
+      "posts_count": 81,
+      "like_count": 188,
+      "core_posters": [
+        "tromp",
+        "joltz"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "privacy": 3
+      },
+      "chapter": 7,
+      "year": "2021"
+    },
+    {
+      "id": 8466,
+      "title": "Grin community projects - brainstorm & kickstart - funding available",
+      "slug": "grin-community-projects-brainstorm-kickstart-funding-available",
+      "created_at": "2021-02-23T13:01:10.164Z",
+      "score": 93.69,
+      "filepath": "2021\\grin-community-projects-brainstorm-kickstart-funding-available.json",
+      "views": 2116,
+      "posts_count": 48,
+      "like_count": 73,
+      "core_posters": [
+        "david",
+        "davidtavarez",
+        "tromp",
+        "quentinlesceller"
+      ],
+      "keyword_matches": {
+        "governance": 4
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 8510,
+      "title": "An open discussion on Non-interactive transactions",
+      "slug": "an-open-discussion-on-non-interactive-transactions",
+      "created_at": "2021-03-03T05:16:51.635Z",
+      "score": 102.49,
+      "filepath": "2021\\an-open-discussion-on-non-interactive-transactions.json",
+      "views": 4935,
+      "posts_count": 102,
+      "like_count": 86,
+      "core_posters": [
+        "david",
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "wallet": 3,
+        "privacy": 1
+      },
+      "chapter": 7,
+      "year": "2021"
+    },
+    {
+      "id": 8517,
+      "title": "[LOCKED] Support Ledger Wallet",
+      "slug": "locked-support-ledger-wallet",
+      "created_at": "2021-03-03T20:37:30.442Z",
+      "score": 142.87,
+      "filepath": "2021\\locked-support-ledger-wallet.json",
+      "views": 6015,
+      "posts_count": 45,
+      "like_count": 236,
+      "core_posters": [
+        "david",
+        "tromp",
+        "quentinlesceller",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "wallet": 3,
+        "privacy": 1
+      },
+      "chapter": 7,
+      "year": "2021"
+    },
+    {
+      "id": 8521,
+      "title": "Call for Grin Community Candidates for additional fund granting control",
+      "slug": "call-for-grin-community-candidates-for-additional-fund-granting-control",
+      "created_at": "2021-03-04T10:26:09.766Z",
+      "score": 88.95,
+      "filepath": "2021\\call-for-grin-community-candidates-for-additional-fund-granting-control.json",
+      "views": 3929,
+      "posts_count": 14,
+      "like_count": 109,
+      "core_posters": [
+        "david",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "governance": 4,
+        "wallet": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 8570,
+      "title": "Grin testnet exchange example",
+      "slug": "grin-testnet-exchange-example",
+      "created_at": "2021-03-11T20:34:13.674Z",
+      "score": 77.58,
+      "filepath": "2021\\grin-testnet-exchange-example.json",
+      "views": 2100,
+      "posts_count": 36,
+      "like_count": 51,
+      "core_posters": [
+        "david",
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "launch": 3,
+        "wallet": 1
+      },
+      "chapter": 7,
+      "year": "2021"
+    },
+    {
+      "id": 8620,
+      "title": "Resolved: D̶o̶ ̶n̶o̶t̶ ̶u̶s̶e̶ ̶G̶r̶i̶n̶ ̶(̶g̶r̶i̶n̶-̶w̶a̶l̶l̶e̶t̶,̶ ̶G̶r̶i̶n̶+̶+̶,̶ ̶I̶r̶o̶n̶b̶e̶l̶l̶y̶)̶ ̶u̶n̶t̶i̶l̶ ̶f̶u̶r̶t̶h̶e̶r̶ ̶n̶o̶t̶i̶c̶e̶!̶",
+      "slug": "resolved-d-o-n-o-t-u-s-e-g-r-i-n-g-r-i-n-w-a-l-l-e-t-g-r-i-n-i-r-o-n-b-e-l-l-y-u-n-t-i-l-f-u-r-t-h-e-r-n-o-t-i-c-e",
+      "created_at": "2021-03-18T11:45:00.355Z",
+      "score": 117.15,
+      "filepath": "2021\\resolved-d-o-n-o-t-u-s-e-g-r-i-n-g-r-i-n-w-a-l-l-e-t-g-r-i-n-i-r-o-n-b-e-l-l-y-u-n-t-i-l-f-u-r-t-h-e-r-n-o-t-i-c-e.json",
+      "views": 9164,
+      "posts_count": 75,
+      "like_count": 144,
+      "core_posters": [
+        "david",
+        "antioch",
+        "davidtavarez",
+        "joltz",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "governance": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 8632,
+      "title": "Request for funding @gene (Adaptor signature atomic swaps GRN-BTC)",
+      "slug": "request-for-funding-gene-adaptor-signature-atomic-swaps-grn-btc",
+      "created_at": "2021-03-20T21:48:00.280Z",
+      "score": 96.66,
+      "filepath": "2021\\request-for-funding-gene-adaptor-signature-atomic-swaps-grn-btc.json",
+      "views": 3023,
+      "posts_count": 25,
+      "like_count": 113,
+      "core_posters": [
+        "tromp",
+        "davidtavarez",
+        "lehnberg"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "conference": 1,
+        "privacy": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 8670,
+      "title": "Grin ledger hardware wallet progress thread by @markhollis",
+      "slug": "grin-ledger-hardware-wallet-progress-thread-by-markhollis",
+      "created_at": "2021-03-30T12:07:23.845Z",
+      "score": 265.84,
+      "filepath": "2021\\grin-ledger-hardware-wallet-progress-thread-by-markhollis.json",
+      "views": 9463,
+      "posts_count": 80,
+      "like_count": 721,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "wallet": 4
+      },
+      "chapter": 7,
+      "year": "2021"
+    },
+    {
+      "id": 8689,
+      "title": "Grin-Bitcoin Adaptor Signature Atomic Swap update thread",
+      "slug": "grin-bitcoin-adaptor-signature-atomic-swap-update-thread",
+      "created_at": "2021-04-02T19:17:00.483Z",
+      "score": 103.24,
+      "filepath": "2021\\grin-bitcoin-adaptor-signature-atomic-swap-update-thread.json",
+      "views": 5657,
+      "posts_count": 42,
+      "like_count": 240,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {},
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 8707,
+      "title": "[Withdrewed] Request for Funding @davidtavarez: One-time use Slatepack addresses for Wallet (RFC and Grin++ Implementation)",
+      "slug": "withdrewed-request-for-funding-davidtavarez-one-time-use-slatepack-addresses-for-wallet-rfc-and-grin-implementation",
+      "created_at": "2021-04-06T20:50:36.055Z",
+      "score": 156.83,
+      "filepath": "2021\\withdrewed-request-for-funding-davidtavarez-one-time-use-slatepack-addresses-for-wallet-rfc-and-grin-implementation.json",
+      "views": 3922,
+      "posts_count": 62,
+      "like_count": 136,
+      "core_posters": [
+        "david",
+        "joltz",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "governance": 6,
+        "wallet": 9,
+        "privacy": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9023,
+      "title": "First Grin Mask",
+      "slug": "first-grin-mask",
+      "created_at": "2021-06-08T20:55:19.005Z",
+      "score": 85.11,
+      "filepath": "2021\\first-grin-mask.json",
+      "views": 2691,
+      "posts_count": 56,
+      "like_count": 183,
+      "core_posters": [
+        "davidtavarez"
+      ],
+      "keyword_matches": {},
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9092,
+      "title": "Let's create the ultimate Grin Wallet experience! (Grin++ UX/UI)",
+      "slug": "lets-create-the-ultimate-grin-wallet-experience-grin-ux-ui",
+      "created_at": "2021-07-04T21:36:13.494Z",
+      "score": 96.56,
+      "filepath": "2021\\lets-create-the-ultimate-grin-wallet-experience-grin-ux-ui.json",
+      "views": 4162,
+      "posts_count": 75,
+      "like_count": 104,
+      "core_posters": [
+        "david",
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "wallet": 3
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9111,
+      "title": "List of Grin problems and their solutions - Open Discussion + Cool Website to compare Grin inflation",
+      "slug": "list-of-grin-problems-and-their-solutions-open-discussion-cool-website-to-compare-grin-inflation",
+      "created_at": "2021-07-10T16:34:43.985Z",
+      "score": 104.58,
+      "filepath": "2021\\list-of-grin-problems-and-their-solutions-open-discussion-cool-website-to-compare-grin-inflation.json",
+      "views": 3145,
+      "posts_count": 75,
+      "like_count": 111,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "emission": 3,
+        "privacy": 2
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9149,
+      "title": "Request for Funding @scilio (CoinSwap Implementation)",
+      "slug": "request-for-funding-scilio-coinswap-implementation",
+      "created_at": "2021-07-28T09:31:37.291Z",
+      "score": 191.09,
+      "filepath": "2021\\request-for-funding-scilio-coinswap-implementation.json",
+      "views": 7860,
+      "posts_count": 88,
+      "like_count": 381,
+      "core_posters": [
+        "tromp",
+        "davidtavarez",
+        "joltz"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "wallet": 1,
+        "privacy": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9181,
+      "title": "Funding request should be at least paid XX% in Grin, we need your opinion!",
+      "slug": "funding-request-should-be-at-least-paid-xx-in-grin-we-need-your-opinion",
+      "created_at": "2021-08-17T15:44:46.186Z",
+      "score": 99.11,
+      "filepath": "2021\\funding-request-should-be-at-least-paid-xx-in-grin-we-need-your-opinion.json",
+      "views": 1845,
+      "posts_count": 58,
+      "like_count": 154,
+      "core_posters": [
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "governance": 4,
+        "conference": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9251,
+      "title": "Grinpost, spreading the Grin ツ word",
+      "slug": "grinpost-spreading-the-grin-word",
+      "created_at": "2021-09-28T22:08:17.746Z",
+      "score": 119.69,
+      "filepath": "2021\\grinpost-spreading-the-grin-word.json",
+      "views": 3903,
+      "posts_count": 61,
+      "like_count": 249,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "privacy": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9274,
+      "title": "Grin Pool Centralization Over 80%",
+      "slug": "grin-pool-centralization-over-80",
+      "created_at": "2021-10-16T11:03:20.577Z",
+      "score": 89.3,
+      "filepath": "2021\\grin-pool-centralization-over-80.json",
+      "views": 5260,
+      "posts_count": 108,
+      "like_count": 136,
+      "core_posters": [
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "pow": 1,
+        "wallet": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9277,
+      "title": "Let's fork GRIN!",
+      "slug": "lets-fork-grin",
+      "created_at": "2021-10-17T02:49:59.126Z",
+      "score": 94.01,
+      "filepath": "2021\\lets-fork-grin.json",
+      "views": 2581,
+      "posts_count": 57,
+      "like_count": 164,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "privacy": 1
+      },
+      "chapter": 8,
+      "year": "2021"
+    },
+    {
+      "id": 9704,
+      "title": "Grin product wishlist",
+      "slug": "grin-product-wishlist",
+      "created_at": "2022-04-14T17:09:40.711Z",
+      "score": 80.18,
+      "filepath": "2022\\grin-product-wishlist.json",
+      "views": 2997,
+      "posts_count": 65,
+      "like_count": 81,
+      "core_posters": [
+        "yeastplume",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "wallet": 2,
+        "privacy": 1
+      },
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 9714,
+      "title": "Venmo/Cashapp product planning",
+      "slug": "venmo-cashapp-product-planning",
+      "created_at": "2022-04-18T04:01:26.055Z",
+      "score": 93.82,
+      "filepath": "2022\\venmo-cashapp-product-planning.json",
+      "views": 3072,
+      "posts_count": 102,
+      "like_count": 172,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {},
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 9820,
+      "title": "Gri̇n i̇s di̇sappeari̇ng",
+      "slug": "gri-n-i-s-di-sappeari-ng",
+      "created_at": "2022-06-06T17:58:24.653Z",
+      "score": 119.66,
+      "filepath": "2022\\gri-n-i-s-di-sappeari-ng.json",
+      "views": 3449,
+      "posts_count": 112,
+      "like_count": 219,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {},
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 9822,
+      "title": "Grin Bulletin Board: Discussing four options and select one for bounty",
+      "slug": "grin-bulletin-board-discussing-four-options-and-select-one-for-bounty",
+      "created_at": "2022-06-07T18:35:44.220Z",
+      "score": 75.47,
+      "filepath": "2022\\grin-bulletin-board-discussing-four-options-and-select-one-for-bounty.json",
+      "views": 2134,
+      "posts_count": 42,
+      "like_count": 84,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "wallet": 4
+      },
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 9896,
+      "title": "Grin is dead? Or not?",
+      "slug": "grin-is-dead-or-not",
+      "created_at": "2022-06-30T06:34:53.801Z",
+      "score": 72.7,
+      "filepath": "2022\\grin-is-dead-or-not.json",
+      "views": 3812,
+      "posts_count": 35,
+      "like_count": 105,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "pow": 1
+      },
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 9915,
+      "title": "\"Contract\" terminology - a dissenting opinion",
+      "slug": "contract-terminology-a-dissenting-opinion",
+      "created_at": "2022-07-06T17:03:34.019Z",
+      "score": 73.58,
+      "filepath": "2022\\contract-terminology-a-dissenting-opinion.json",
+      "views": 1732,
+      "posts_count": 78,
+      "like_count": 76,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "wallet": 1
+      },
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 9919,
+      "title": "Request for Funding - Node & Wallet Core Development | Deev | July-September",
+      "slug": "request-for-funding-node-wallet-core-development-deev-july-september",
+      "created_at": "2022-07-08T02:08:13.149Z",
+      "score": 72.06,
+      "filepath": "2022\\request-for-funding-node-wallet-core-development-deev-july-september.json",
+      "views": 471,
+      "posts_count": 7,
+      "like_count": 55,
+      "core_posters": [
+        "yeastplume",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "wallet": 3,
+        "privacy": 1
+      },
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 10021,
+      "title": "How to send and receive Grin with Ledger Live Desktop",
+      "slug": "how-to-send-and-receive-grin-with-ledger-live-desktop",
+      "created_at": "2022-09-09T11:19:26.603Z",
+      "score": 69.93,
+      "filepath": "2022\\how-to-send-and-receive-grin-with-ledger-live-desktop.json",
+      "views": 1831,
+      "posts_count": 33,
+      "like_count": 96,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "privacy": 1
+      },
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 10034,
+      "title": "Request for funding, @mattczt, October 2022 ~",
+      "slug": "request-for-funding-mattczt-october-2022",
+      "created_at": "2022-09-21T10:12:06.462Z",
+      "score": 69.01,
+      "filepath": "2022\\request-for-funding-mattczt-october-2022.json",
+      "views": 1465,
+      "posts_count": 44,
+      "like_count": 50,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "launch": 1,
+        "governance": 3
+      },
+      "chapter": 9,
+      "year": "2022"
+    },
+    {
+      "id": 10254,
+      "title": "2023 Meme contest, anything goes, just have fun Meming!",
+      "slug": "2023-meme-contest-anything-goes-just-have-fun-meming",
+      "created_at": "2023-01-03T09:34:34.593Z",
+      "score": 124.92,
+      "filepath": "2023\\2023-meme-contest-anything-goes-just-have-fun-meming.json",
+      "views": 3389,
+      "posts_count": 102,
+      "like_count": 288,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "governance": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10280,
+      "title": "Opposition to default coinswap",
+      "slug": "opposition-to-default-coinswap",
+      "created_at": "2023-01-17T14:18:20.204Z",
+      "score": 66.98,
+      "filepath": "2023\\opposition-to-default-coinswap.json",
+      "views": 1272,
+      "posts_count": 48,
+      "like_count": 87,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "wallet": 2
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10420,
+      "title": "Report of funding",
+      "slug": "report-of-funding",
+      "created_at": "2023-03-23T11:13:06.864Z",
+      "score": 70.63,
+      "filepath": "2023\\report-of-funding.json",
+      "views": 1145,
+      "posts_count": 34,
+      "like_count": 61,
+      "core_posters": [
+        "yeastplume",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "wallet": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10472,
+      "title": "Non-interactive transactions for the MW blockchain",
+      "slug": "non-interactive-transactions-for-the-mw-blockchain",
+      "created_at": "2023-04-29T16:16:04.307Z",
+      "score": 76.92,
+      "filepath": "2023\\non-interactive-transactions-for-the-mw-blockchain.json",
+      "views": 1876,
+      "posts_count": 51,
+      "like_count": 51,
+      "core_posters": [
+        "david",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "wallet": 4,
+        "privacy": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10522,
+      "title": "CC Fund: expenses, responsibilities, spending guidelines and follow-up processes",
+      "slug": "cc-fund-expenses-responsibilities-spending-guidelines-and-follow-up-processes",
+      "created_at": "2023-05-16T12:59:27.214Z",
+      "score": 98.07,
+      "filepath": "2023\\cc-fund-expenses-responsibilities-spending-guidelines-and-follow-up-processes.json",
+      "views": 2951,
+      "posts_count": 90,
+      "like_count": 178,
+      "core_posters": [
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "pow": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10579,
+      "title": "Use Grin Coin as a reserve for more Advanced Fair Tokens",
+      "slug": "use-grin-coin-as-a-reserve-for-more-advanced-fair-tokens",
+      "created_at": "2023-06-10T13:32:00.398Z",
+      "score": 85.71,
+      "filepath": "2023\\use-grin-coin-as-a-reserve-for-more-advanced-fair-tokens.json",
+      "views": 1742,
+      "posts_count": 89,
+      "like_count": 142,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "emission": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10584,
+      "title": "Funding proposal 1: Parallel Initial Block Download",
+      "slug": "funding-proposal-1-parallel-initial-block-download",
+      "created_at": "2023-06-13T08:40:04.844Z",
+      "score": 79.06,
+      "filepath": "2023\\funding-proposal-1-parallel-initial-block-download.json",
+      "views": 1277,
+      "posts_count": 42,
+      "like_count": 67,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "governance": 4,
+        "protocol": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10619,
+      "title": "Suggestion: Return CC funds to OC",
+      "slug": "suggestion-return-cc-funds-to-oc",
+      "created_at": "2023-07-05T14:53:51.974Z",
+      "score": 73.71,
+      "filepath": "2023\\suggestion-return-cc-funds-to-oc.json",
+      "views": 1588,
+      "posts_count": 64,
+      "like_count": 105,
+      "core_posters": [
+        "tromp",
+        "davidtavarez"
+      ],
+      "keyword_matches": {},
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10669,
+      "title": "Meme contest: Anything goes, bonus theme - the bottom is in...or is it? :scream:",
+      "slug": "meme-contest-anything-goes-bonus-theme-the-bottom-is-in-or-is-it",
+      "created_at": "2023-08-08T09:56:35.970Z",
+      "score": 97.52,
+      "filepath": "2023\\meme-contest-anything-goes-bonus-theme-the-bottom-is-in-or-is-it.json",
+      "views": 1906,
+      "posts_count": 86,
+      "like_count": 242,
+      "core_posters": [],
+      "keyword_matches": {
+        "governance": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10713,
+      "title": "Suggestion: Make DEX - Gate.io is Over",
+      "slug": "suggestion-make-dex-gate-io-is-over",
+      "created_at": "2023-09-03T12:22:34.140Z",
+      "score": 138.41,
+      "filepath": "2023\\suggestion-make-dex-gate-io-is-over.json",
+      "views": 4000,
+      "posts_count": 137,
+      "like_count": 264,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "privacy": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10798,
+      "title": "A new grin explorer",
+      "slug": "a-new-grin-explorer",
+      "created_at": "2023-10-25T20:01:50.872Z",
+      "score": 93.38,
+      "filepath": "2023\\a-new-grin-explorer.json",
+      "views": 2562,
+      "posts_count": 72,
+      "like_count": 150,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "launch": 2,
+        "protocol": 1
+      },
+      "chapter": 9,
+      "year": "2023"
+    },
+    {
+      "id": 10942,
+      "title": "Should the CC donate to Grinvention - mimblewimble.py?",
+      "slug": "should-the-cc-donate-to-grinvention-mimblewimble-py",
+      "created_at": "2024-02-13T15:33:40.146Z",
+      "score": 77.68,
+      "filepath": "2024\\should-the-cc-donate-to-grinvention-mimblewimble-py.json",
+      "views": 1322,
+      "posts_count": 34,
+      "like_count": 106,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "governance": 1,
+        "wallet": 1,
+        "privacy": 3
+      },
+      "chapter": 9,
+      "year": "2024"
+    },
+    {
+      "id": 11045,
+      "title": "Grincoin.org - blockchain explorer",
+      "slug": "grincoin-org-blockchain-explorer",
+      "created_at": "2024-05-06T13:34:15.431Z",
+      "score": 79.68,
+      "filepath": "2024\\grincoin-org-blockchain-explorer.json",
+      "views": 2690,
+      "posts_count": 68,
+      "like_count": 154,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {},
+      "chapter": 9,
+      "year": "2024"
+    },
+    {
+      "id": 11128,
+      "title": "Grim - cross-platform GUI for Grin",
+      "slug": "grim-cross-platform-gui-for-grin",
+      "created_at": "2024-08-02T19:48:23.760Z",
+      "score": 77.97,
+      "filepath": "2024\\grim-cross-platform-gui-for-grin.json",
+      "views": 1652,
+      "posts_count": 73,
+      "like_count": 166,
+      "core_posters": [],
+      "keyword_matches": {},
+      "chapter": 9,
+      "year": "2024"
+    },
+    {
+      "id": 11227,
+      "title": "I love all grinners❤️. Meme theme",
+      "slug": "i-love-all-grinners-meme-theme",
+      "created_at": "2024-10-22T15:56:09.569Z",
+      "score": 120.45,
+      "filepath": "2024\\i-love-all-grinners-meme-theme.json",
+      "views": 1750,
+      "posts_count": 115,
+      "like_count": 283,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {},
+      "chapter": 9,
+      "year": "2024"
+    },
+    {
+      "id": 11376,
+      "title": "[LISTING] MEXC x GRIN",
+      "slug": "listing-mexc-x-grin",
+      "created_at": "2024-11-13T16:02:01.287Z",
+      "score": 73.82,
+      "filepath": "2024\\listing-mexc-x-grin.json",
+      "views": 1397,
+      "posts_count": 65,
+      "like_count": 157,
+      "core_posters": [],
+      "keyword_matches": {},
+      "chapter": 9,
+      "year": "2024"
+    },
+    {
+      "id": 11583,
+      "title": "Funding Proposal: PIBD implementation in Grin++",
+      "slug": "funding-proposal-pibd-implementation-in-grin",
+      "created_at": "2025-01-28T15:27:07.735Z",
+      "score": 78.57,
+      "filepath": "2025\\funding-proposal-pibd-implementation-in-grin.json",
+      "views": 921,
+      "posts_count": 32,
+      "like_count": 62,
+      "core_posters": [
+        "davidtavarez"
+      ],
+      "keyword_matches": {
+        "governance": 4,
+        "protocol": 3,
+        "privacy": 1
+      },
+      "chapter": 10,
+      "year": "2025"
+    },
+    {
+      "id": 11733,
+      "title": "Let's Talk Privacy: Mimblewimble vs. Confidential Transactions",
+      "slug": "lets-talk-privacy-mimblewimble-vs-confidential-transactions",
+      "created_at": "2025-04-29T08:15:40.146Z",
+      "score": 68.1,
+      "filepath": "2025\\lets-talk-privacy-mimblewimble-vs-confidential-transactions.json",
+      "views": 118,
+      "posts_count": 4,
+      "like_count": 11,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "wallet": 3,
+        "privacy": 9
+      },
+      "chapter": 10,
+      "year": "2025"
+    },
+    {
+      "id": 11749,
+      "title": "Resetting the Community Council (CC)? -> update: new Grin Governance Council was created (GCC)",
+      "slug": "resetting-the-community-council-cc-update-new-grin-governance-council-was-created-gcc",
+      "created_at": "2025-05-06T15:08:36.684Z",
+      "score": 102.3,
+      "filepath": "2025\\resetting-the-community-council-cc-update-new-grin-governance-council-was-created-gcc.json",
+      "views": 1313,
+      "posts_count": 69,
+      "like_count": 175,
+      "core_posters": [],
+      "keyword_matches": {
+        "governance": 6
+      },
+      "chapter": 10,
+      "year": "2025"
+    },
+    {
+      "id": 11765,
+      "title": "Funding proposal: Grin integration into Unstoppable Wallet",
+      "slug": "funding-proposal-grin-integration-into-unstoppable-wallet",
+      "created_at": "2025-05-12T10:36:27.507Z",
+      "score": 99.9,
+      "filepath": "2025\\funding-proposal-grin-integration-into-unstoppable-wallet.json",
+      "views": 899,
+      "posts_count": 63,
+      "like_count": 129,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "governance": 3,
+        "wallet": 3,
+        "privacy": 1
+      },
+      "chapter": 10,
+      "year": "2025"
+    },
+    {
+      "id": 11817,
+      "title": "My Struggle With Grin",
+      "slug": "my-struggle-with-grin",
+      "created_at": "2025-06-02T22:24:38.248Z",
+      "score": 86.85,
+      "filepath": "2025\\my-struggle-with-grin.json",
+      "views": 810,
+      "posts_count": 79,
+      "like_count": 126,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {
+        "wallet": 1,
+        "emission": 1,
+        "privacy": 1
+      },
+      "chapter": 10,
+      "year": "2025"
+    },
+    {
+      "id": 11950,
+      "title": "TradeOgre (TO) Watch: TradeOgre Offline, A Thread",
+      "slug": "tradeogre-to-watch-tradeogre-offline-a-thread",
+      "created_at": "2025-07-30T07:38:31.574Z",
+      "score": 80.07,
+      "filepath": "2025\\tradeogre-to-watch-tradeogre-offline-a-thread.json",
+      "views": 6019,
+      "posts_count": 97,
+      "like_count": 135,
+      "core_posters": [
+        "tromp"
+      ],
+      "keyword_matches": {},
+      "chapter": 10,
+      "year": "2025"
+    },
+    {
+      "id": 12033,
+      "title": "Request for funding Cuckatoo reference miner",
+      "slug": "request-for-funding-cuckatoo-reference-miner",
+      "created_at": "2025-08-20T08:39:35.941Z",
+      "score": 116.88,
+      "filepath": "2025\\request-for-funding-cuckatoo-reference-miner.json",
+      "views": 1232,
+      "posts_count": 73,
+      "like_count": 170,
+      "core_posters": [
+        "yeastplume",
+        "tromp"
+      ],
+      "keyword_matches": {
+        "pow": 3,
+        "governance": 3
+      },
+      "chapter": 10,
+      "year": "2025"
+    }
+  ]
+}
