@@ -4,7 +4,7 @@
 
 This publication incorporates, adapts, and references material originally posted on the Grin Forum, accessible at:
 
-https://forum.grin.mw/tos
+https://forum.grin.mw/
 
 All forum contributions are authored by individual users and are made available under the **Creative Commons Attribution–NonCommercial–ShareAlike 3.0 Unported License (CC BY-NC-SA 3.0)**, as specified in the Grin Forum Terms of Service.
 
@@ -53,6 +53,9 @@ Subject to the following conditions:
 
 The full licence text is available at:  
 https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+The Grin Forum's Terms of Service can be found at:
+https://forum.grin.mw/tos
 
 ---
 
