@@ -86,7 +86,7 @@ Igno Peverell responded with characteristic pragmatism, explaining that a "Loung
 
 ## Cuckoo Cycle: A New Kind of Mining
 
-One of Grin's most distinctive features was its proof-of-work algorithm: Cuckoo Cycle, created by John Tromp. Unlike the hash-based mining that powered Bitcoin and most other cryptocurrencies, Cuckoo Cycle worked by searching through massive graphs for cycles—paths that loop back on themselves.
+One of Grin's most distinctive features was its proof-of-work algorithm: Cuckoo Cycle, created by John Tromp. A core developer who co-architected several parts of Grin's consensus code—including the emission schedule, Merkle Mountain Range (MMR), difficulty adjustment, proof-of-work transitions, spent bitmap MMR, and fee system, as well as Cuckoo's CPU and GPU solvers—Tromp brought deep cryptographic expertise to the project. Unlike the hash-based mining that powered Bitcoin and most other cryptocurrencies, Cuckoo Cycle worked by searching through massive graphs for cycles—paths that loop back on themselves.
 
 Yeastplume, who would become one of Grin's most prolific developers, created a comprehensive Mining FAQ that became essential reading for anyone wanting to understand the new system. "For most people's purposes," he wrote, "it's an algorithm that we hope turns out to be ASIC resistant."
 
@@ -563,6 +563,20 @@ The message concluded: "Hopefully we judged it right, time will tell."
 
 The back-to-back coinbase donations—both from early Bitcoin miners who had chosen to support Grin with coins worth hundreds of thousands of dollars—sent a signal that went beyond funding. Someone who had been present at the dawn of Bitcoin saw something in Grin worth backing.
 
+## GrinCon1 and the Cuckaroom Unveiling
+
+In November 2019, the Grin community gathered for GrinCon1, the project's second major conference. Among the presentations, Tromp unveiled Cuckaroom—the next evolution in the Cuckaroo family of ASIC-resistant algorithms.
+
+The announcement marked the latest step in Grin's planned proof-of-work transitions. Just as Cuckaroo had been active for only six months (January through July 2019), Cuckarood would reach the end of its life at the second hard fork in January 2020. Its successor would be Cuckaroom.
+
+"Its successor, and latest member of the Cuckoo Family, 'Cuckaroom', was unveiled last Friday at GrinCon1," Tromp wrote to the forum. The name revealed the algorithm's key innovation: the 'M' stood for "Monopartite." Unlike the bipartite graphs used in Cuckaroo and Cuckarood, Cuckaroom's graph structure allowed cycles of all possible lengths—including odd ones, and even single-node "unicycles."
+
+The technical changes were deliberate. Where Cuckarood had tweaked the underlying hash function and cycle type, Cuckaroom instead modified the edge block computation while reverting to standard siphash. The new approach meant that miners would need to perform twice as many rounds to trim edges, and the expected solution rate would drop from 1/21 to 1/42.
+
+"So we can expect a large drop in C29 solution rate come hardfork time," Tromp warned, "from slower solvers, halved solution rate, and the seemingly unavoidable unprepared miners. However, difficulty should adjust within a matter of hours."
+
+The progression was now clear: Cuckarood, then Cuckaroom, and eventually Cuckarooz. Each iteration represented another round in the ongoing arms race to keep GPU mining viable while ASICs were being developed for the ASIC-friendly Cuckatoo algorithm.
+
 ## Looking Ahead
 
 The first hard fork marked a transition point. The frantic energy of launch had settled into the steadier rhythm of ongoing development. The next hard fork was scheduled for January 2020—six months away. Then another in July 2020, and a final one in January 2021.
@@ -583,6 +597,8 @@ Between January 2020 and January 2021, Grin executed three scheduled hard forks�
 ## v3.0.0: The Second Fork
 
 On January 20, 2020, Grin completed its second hard fork at block height 524,160. Yeastplume's assessment captured the mood: "'Boring and uneventful.' Terrible review for your new Netflix series, but the highest praise you could possibly receive for your Hardfork."
+
+The upgrade introduced Cuckaroom, the third member of the Cuckaroo family of ASIC-resistant algorithms. Following Cuckarood from the first hard fork, Cuckaroom represented another iteration in the ongoing effort to keep GPU mining viable. As Tromp had unveiled at GrinCon1, Cuckaroom made further tweaks to edge block computation and moved to a monopartite graph structure, allowing cycles of all possible lengths. This was the middle step in the Cuckaroo progression—Cuckarood, then Cuckaroom, and eventually Cuckarooz.
 
 The upgrade had gone smoothly—Floonet testing had worked, and mainnet followed without incident. But Yeastplume was already looking ahead, outlining priorities for the coming year: an interactive CLI mode for the wallet, better API documentation, improved testing infrastructure, and progress toward standardized offline transactions.
 
@@ -618,7 +634,7 @@ And for those who disagreed fundamentally with the project's direction, Lehnberg
 
 On July 16, 2020, Grin's third hard fork arrived at block height 786,240. The release introduced important technical improvements: compact slates that reduced transaction size, better Tor integration, and the deprecation of insecure API versions.
 
-The secondary proof-of-work algorithm changed to CuckarOOZ—another iteration in the ongoing effort to keep GPU mining viable against ASIC development. It would be the last such change; after the fourth hard fork, the ASIC-resistant algorithm would phase out entirely.
+The secondary proof-of-work algorithm changed to Cuckarooz—another iteration in the ongoing effort to keep GPU mining viable against ASIC development. It would be the last such change; after the fourth hard fork, the ASIC-resistant algorithm would phase out entirely.
 
 ## v5.0.0: The Final Scheduled Fork
 
@@ -914,7 +930,7 @@ The MimbleWimble whitepaper appeared in July 2016. The Grin genesis block was mi
 
 **Confidential Transactions**: A cryptographic technique that hides transaction amounts while still allowing verification of their validity.
 
-**Cuckoo Cycle**: The proof-of-work algorithm family used by Grin, designed by John Tromp. Variations include Cuckaroo (ASIC-resistant) and Cuckatoo (ASIC-friendly).
+**Cuckoo Cycle**: The proof-of-work algorithm family used by Grin, designed by John Tromp. Variations include the Cuckaroo family (ASIC-resistant: Cuckarood, Cuckaroom, Cuckarooz) and Cuckatoo (ASIC-friendly).
 
 **Cut-through**: A MimbleWimble feature that allows spent outputs to be removed from the blockchain, dramatically reducing its size.
 
@@ -947,9 +963,7 @@ This story was built by many hands. While preserving the privacy that Grin value
 
 **Founding Developer**: Igno Peverell
 
-**Core Developers**: Yeastplume, antioch, hashmap, jaspervdm, quentinlesceller
-
-**Proof of Work**: John Tromp (tromp)
+**Core Developers**: Yeastplume, antioch, hashmap, jaspervdm, quentinlesceller, John Tromp (tromp)
 
 **Project Management**: Daniel Lehnberg (lehnberg)
 
