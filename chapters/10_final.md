@@ -46,9 +46,9 @@ Grin's design had always assumed that contributors would come and go. The protoc
 
 This wasn't just rhetoric—it was tested by Igno's departure. And the project survived.
 
-Yeastplume continued his wallet work. Jaspervdm and antioch maintained the node. Lehnberg coordinated governance. New contributors emerged. The hard forks happened on schedule. Development continued.
+Yeastplume continued his wallet work. Jaspervdm and antioch maintained the node. Lehnberg coordinated governance. New contributors emerged. The hard forks happened on schedule. Development continued. When the inflation bug struck in 2021, the community coordinated an emergency response without missing a beat.
 
-It wasn't the same without Igno. The community had lost something irreplaceable—not just technical skill but a particular kind of leadership, quiet and principled. But it had gained something too: proof that the decentralized ideal actually worked.
+It wasn't the same without Igno. The community had lost something irreplaceable—not just technical skill but a particular kind of leadership, quiet and principled. But it had gained something too: proof that the decentralized ideal actually worked—not just in theory, but under pressure.
 
 ## Looking Forward
 

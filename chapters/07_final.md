@@ -50,6 +50,30 @@ The secondary proof-of-work—the ASIC-resistant Cuckaroo family—began its fin
 
 The hard fork also brought relative kernel locks—a feature that enabled time-locked transactions relative to their inclusion in a block. This laid groundwork for future features like payment channels, though implementing those features would require additional wallet work.
 
+## The Inflation Bug
+
+Just two months after the final scheduled hard fork, Grin faced one of the disaster scenarios the governance framework had anticipated: an inflation bug that allowed arbitrary creation of coins.
+
+On March 18, 2021, something strange happened. The Grin++ node—David Burkett's independent C++ implementation—refused to accept block 1,136,081. The official Rust node accepted it without complaint. When two implementations of the same protocol disagree about validity, something is deeply wrong.
+
+David Burkett's warning was immediate and stark: "Do not use Grin right now at all while we investigate."
+
+Within hours, the team identified the problem. John Tromp explained the technical flaw: "The former code accepted a rangeproof BP for output commitment O, if BP appeared in the verifier cache as having been verified before. This logic was faulty since the earlier verification was not necessarily against the same output commitment. The earlier verification could be against a different output, while the new one commits to a negative value."
+
+In other words, an attacker could reuse a valid range proof from a legitimate output to validate a completely different output—one that created coins from nothing. It was an elegant exploit of a subtle caching optimization, and it had been executed deliberately. As one community member observed: "This was an attack by someone with good understanding of Grin and the rust implementation."
+
+Antioch released v5.0.3 within hours. The fix mitigated the cache issue, rewound the invalid block, and improved peer banning. All miners were urged to upgrade immediately to build work on a valid chain. Exchanges and users were told to halt transactions until sufficient work had been built beyond the invalid block.
+
+The community response was mixed. Some users complained bitterly about the "rollback" affecting their transactions. "I think this fork is very stupid, never think about the ones who received grins after block 1136081," wrote one frustrated user. Others demanded compensation for lost coins.
+
+But the broader community understood what had happened—and what hadn't. The attack had been detected and stopped before significant damage was done. No one had successfully inflated Grin's supply. The network had proven resilient.
+
+The lesson was clear: having multiple independent implementations wasn't just a nice-to-have—it was essential infrastructure. Grin++ had caught what the Rust node missed precisely because it didn't share the same caching logic. Diversity of implementation had saved the day.
+
+"Nice example of the benefits of having two independent node implementations," observed Anynomous, the community member who had helped coordinate the response.
+
+The inflation bug validated the governance framework's foresight in planning for "cryptographic weaknesses leading to arbitrary inflation." It also demonstrated that the community could execute a coordinated emergency response without the original core team. Grin had survived its most serious crisis through the same decentralized cooperation that had built it.
+
 ## Stability at Last
 
 With the final scheduled fork complete, Grin entered a new phase. The protocol was stable. Users and miners could expect that the consensus rules they learned today would remain valid indefinitely. ASIC manufacturers could invest in hardware confident that their designs wouldn't be invalidated by the next fork.
